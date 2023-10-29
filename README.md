@@ -5,7 +5,7 @@
 * 不限于[**Markdown**](https://markdown.com.cn/basic-syntax/)的文本格式,其他格式也是可以的,具体有哪些,我还没有测试过
 * 不限于只替换图片链接,也可替换文本等其他内容,主要看正则怎么写了,具体的自行测试
 
-具体介绍,请点击[静雨·安蝉]([https://blog.kwxos.top/](https://blog.kwxos.top/posts/7596.html))
+具体介绍,请点击[静雨·安蝉](https://blog.kwxos.top/posts/7596.html)
 
 ## 具体图示:
 | 首页 | 自动替换 | 手动替换 |
