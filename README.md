@@ -7,7 +7,7 @@
 
 具体介绍,请点击[静雨·安蝉](https://blog.kwxos.top/)
 
-##具体图示:
+## 具体图示:
 | 首页 | 自动替换 | 手动替换 |
 | --- | --- | --- |
 | ![image](https://github.com/kwxos/Ichange/assets/102129419/6c7e954a-222e-45e9-835e-56d0a6a9d056) | ![image](https://github.com/kwxos/Ichange/assets/102129419/857deea6-d3aa-432a-899d-7132c3805aea) | ![image](https://github.com/kwxos/Ichange/assets/102129419/fe9b3910-e535-46b4-b860-63b31a90babb) |
